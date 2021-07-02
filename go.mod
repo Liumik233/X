@@ -1,4 +1,4 @@
-module github.com/XrayR-project/XrayR
+module github.com/Liumik233/X
 
 go 1.16
 
